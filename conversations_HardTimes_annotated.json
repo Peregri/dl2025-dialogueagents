@@ -1,32 +1,31 @@
 [
     {
-        "All Characters": [
-            "Thomas Gradgrind",
-            "_group",
-            "Cecilia Jupe",
-            "Stephen Blackpool",
-            "Rachel Gradgrind",
-            "Mr. M'choakumchild",
-            "Master Kidderminster",
-            "Louisa Bounderby",
-            "Mr. Sleary",
-            "Bitzer",
-            "Mr. E. W. B. Childers",
-            "Mrs. Sparsit",
-            "The Chairman",
-            "Josiah Bounderby",
-            "Josephine Sleary",
-            "Jane",
-            "The Old Woman",
-            "Young Thomas",
-            "Mrs. Blackpool",
-            "Mr. James Harthouse",
-            "_unknowable",
-            "Slackbridge",
-            "The Clown",
-            "Mrs. Gradgrind",
-            "The Waiter"
-        ]
+        "All Characters": {
+            "Thomas Gradgrind": "Rigid and utilitarian, speaking in precise, fact-driven statements, dismissing imagination and sentiment as frivolous.",
+            "Cecilia Jupe": "Gentle and empathetic, speaking with warmth and sincerity, often expressing emotions that contrast with the cold logic around her.",
+            "Stephen Blackpool": "Honest and weary, speaking in a humble, measured tone, burdened by hardship but holding onto quiet dignity.",
+            "Rachel Gradgrind": "Kind and steadfast, speaking with gentle wisdom, offering support and solace to those in need.",
+            "Mr. M'choakumchild": "Pedantic and overbearing, speaking in a didactic, monotonous manner, more concerned with drilling facts than fostering thought.",
+            "Master Kidderminster": "Bold and theatrical, speaking with exaggerated flair, always seeking attention and admiration.",
+            "Louisa Bounderby": "Intelligent but repressed, speaking in a restrained, guarded manner, struggling to reconcile her emotions with her strict upbringing.",
+            "Mr. Sleary": "Good-natured and slurring, speaking in a jovial but heavily lisping manner, valuing amusement over rigid structure.",
+            "Bitzer": "Cold and calculating, speaking with clipped efficiency, eager to please authority and advance his own interests.",
+            "Mr. E. W. B. Childers": "Confident and lively, speaking in an exaggeratedly proper yet entertaining manner, accustomed to performing for an audience.",
+            "Mrs. Sparsit": "Snobbish and scheming, speaking in a falsely gracious tone, always maneuvering to maintain her social superiority.",
+            "The Chairman": "Pompous and bureaucratic, speaking in a grandiose but ultimately empty manner, obsessed with protocol and appearances.",
+            "Josiah Bounderby": "Boastful and blustering, speaking in loud, self-aggrandizing declarations, constantly reminding others of his supposed humble origins.",
+            "Josephine Sleary": "Cheerful and spirited, speaking with playful enthusiasm, full of energy and quick wit.",
+            "Jane": "Quiet and content, speaking in a mild and affectionate way, free from the rigid upbringing that stifled her siblings.",
+            "The Old Woman": "Mournful and persistent, speaking in a pleading, sorrowful tone, haunted by a past injustice.",
+            "Young Thomas": "Selfish and reckless, speaking in a flippant and dismissive manner, resentful of authority and eager for personal gain.",
+            "Mrs. Blackpool": "Bitter and unstable, speaking in erratic and accusatory tones, consumed by her own misery and self-destruction.",
+            "Mr. James Harthouse": "Charming but insincere, speaking in an effortlessly smooth and persuasive manner, devoid of genuine conviction.",
+            "Slackbridge": "Fiery and manipulative, speaking in passionate, rallying speeches, more concerned with spectacle than substance.",
+            "The Clown": "Witty and lighthearted, speaking in playful jests and exaggerated expressions, always looking for humor in any situation.",
+            "Mrs. Gradgrind": "Weak-willed and ineffective, speaking in vague, resigned murmurs, overwhelmed by the strict world around her.",
+            "The Waiter": "Polite but indifferent, speaking in a neutral, professional manner, more interested in efficiency than conversation."
+          }
+          
     },
     {
         "raw text": " I\nTHE ONE THING NEEDFUL\n\n\n\"NOW, what I want is, Facts.  Teach these boys and girls nothing but\nFacts.  Facts alone are wanted in life.  Plant nothing else, and root out\neverything else.  You can only form the minds of reasoning animals upon\nFacts: nothing else will ever be of any service to them.  This is the\nprinciple on which I bring up my own children, and this is the principle\non which I bring up these children.  Stick to Facts, sir!\"\n\nThe scene was a plain, bare, monotonous vault of a school-room, and the\nspeaker's square forefinger emphasized his observations by underscoring\nevery sentence with a line on the schoolmaster's sleeve.  The emphasis\nwas helped by the speaker's square wall of a forehead, which had his\neyebrows for its base, while his eyes found commodious cellarage in two\ndark caves, overshadowed by the wall.  The emphasis was helped by the\nspeaker's mouth, which was wide, thin, and hard set.  The emphasis was\nhelped by the speaker's voice, which was inflexible, dry, and\ndictatorial.  The emphasis was helped by the speaker's hair, which\nbristled on the skirts of his bald head, a plantation of firs to keep the\nwind from its shining surface, all covered with knobs, like the crust of\na plum pie, as if the head had scarcely warehouse-room for the hard facts\nstored inside.  The speaker's obstinate carriage, square coat, square\nlegs, square shoulders,   nay, his very neckcloth, trained to take him by\nthe throat with an unaccommodating grasp, like a stubborn fact, as it\nwas,   all helped the emphasis.\n\n\"In this life, we want nothing but Facts, sir; nothing but Facts!\"\n\nThe speaker, and the schoolmaster, and the third grown person present,\nall backed a little, and swept with their eyes the inclined plane of\nlittle vessels then and there arranged in order, ready to have imperial\ngallons of facts poured into them until they were full to the brim.\n\n\n\n",

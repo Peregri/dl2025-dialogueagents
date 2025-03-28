@@ -1,31 +1,31 @@
 [
     {
-        "All Characters": [
-            "Kanga",
-            "_group",
-            "_narr",
-            "Piglet",
-            "Owl",
-            "Christopher Robin - External",
-            "Heffalump",
-            "Winnie-the-pooh",
-            "_unknowable",
-            "Eeyore",
-            "Baby Roo",
-            "Christopher Robin - Story",
-            "Rabbit"
-        ]
+        "All Characters": 
+        {
+            "Kanga": "A kind and caring mother, Kanga speaks with warmth and nurturing tones. She is patient, practical, and often looks out for the well-being of others, especially her son Roo. Her dialogue is filled with encouragement and motherly wisdom.",
+            "The Narrator": "The Narrator speaks in a calm, neutral tone, providing insight into the events and characters with a sense of whimsy and gentle humor. The Narrator often describes actions and thoughts in a straightforward, sometimes playful manner.",
+            "Piglet": "A timid and anxious character, Piglet speaks with hesitance and worry. His dialogue is often filled with self-doubt and concern, but he has a kind heart and tries his best to be brave despite his fears.",
+            "Owl": "A wise and talkative character, Owl speaks with a somewhat pompous and authoritative tone. His dialogue is often filled with complex words and long-winded explanations, even when they are unnecessary, reflecting his belief in his own intelligence.",
+            "Christopher Robin - External": "A thoughtful and caring young boy, Christopher Robin speaks with gentle authority and understanding. His tone is calm and reassuring, often offering guidance and comfort to his friends in times of need.",
+            "Heffalump": "A curious and slightly misunderstood character, Heffalump speaks in a soft and sometimes uncertain manner. His dialogue reflects his innocence and curiosity, often focusing on his attempts to fit in or understand the world around him.",
+            "Winnie-the-Pooh": "A lovable and carefree bear, Pooh speaks in a simple, often slow, and thoughtful manner. His dialogue is filled with innocence and straightforwardness, and he often expresses his thoughts in a whimsical, naïve way, focusing on the simple joys of life.",
+            "Eeyore": "A pessimistic and melancholic donkey, Eeyore speaks with a dry, monotone voice. His dialogue often reflects his gloomy outlook on life, with a touch of sarcasm and resignation, though he remains a loyal friend despite his negative perspective.",
+            "Baby Roo": "A curious and playful young kangaroo, Baby Roo speaks in a cheerful, innocent manner. His dialogue is simple and full of wonder as he learns about the world around him, often filled with excitement and eagerness to explore.",
+            "Christopher Robin - Story": "A brave and thoughtful leader, Christopher Robin's dialogue in the story is warm and reassuring. He speaks with a sense of adventure and responsibility, often guiding his friends with wisdom and kindness.",
+            "Rabbit": "A practical and sometimes overly-organized character, Rabbit speaks with a no-nonsense, often impatient tone. He is focused on plans and tasks, and his dialogue reflects his desire for order and efficiency, though he can be a bit stubborn and quick to frustration."
+          }
+          
     },
     {
         "raw text": " I\n\n                      IN WHICH WE ARE INTRODUCED TO\n                     WINNIE-THE-POOH AND SOME BEES,\n                          AND THE STORIES BEGIN\n\n\nHere is Edward Bear, coming downstairs now, bump, bump, bump, on the\nback of his head, behind Christopher Robin. It is, as far as he knows,\nthe only way of coming downstairs, but sometimes he feels that there\nreally is another way, if only he could stop bumping for a moment and\nthink of it. And then he feels that perhaps there isn't. Anyhow, here he\nis at the bottom, and ready to be introduced to you. Winnie-the-Pooh.\n\nWhen I first heard his name, I said, just as you are going to say, \"But\nI thought he was a boy?\"\n\n\"So did I,\" said Christopher Robin.\n\n\"Then you can't call him Winnie?\"\n\n\"I don't.\"\n\n\"But you said----\"\n\n\"He's Winnie-ther-Pooh. Don't you know what '_ther_' means?\"\n\n\"Ah, yes, now I do,\" I said quickly; and I hope you do too, because it\nis all the explanation you are going to get.\n\nSometimes Winnie-the-Pooh likes a game of some sort when he comes\ndownstairs, and sometimes he likes to sit quietly in front of the fire\nand listen to a story. This evening----\n\n\"What about a story?\" said Christopher Robin.\n\n\"_What_ about a story?\" I said.\n\n\"Could you very sweetly tell Winnie-the-Pooh one?\"\n\n\"I suppose I could,\" I said. \"What sort of stories does he like?\"\n\n\"About himself. Because he's _that_ sort of Bear.\"\n\n\"Oh, I see.\"\n\n\"So could you very sweetly?\"\n\n\"I'll try,\" I said.\n\nSo I tried.\n\n",
         "characters": [
             "Christopher Robin - External",
             "Winnie-the-pooh",
-            "_narr"
+            "The Narrator"
         ],
         "dialogue": [
             {
-                "character": "_narr",
+                "character": "The Narrator",
                 "dialogue": "But I thought he was a boy?"
             },
             {
@@ -49,7 +49,7 @@
                 "dialogue": "He's Winnie-ther-Pooh. Don't you know what '_ther_' means?"
             },
             {
-                "character": "_narr",
+                "character": "The Narrator",
                 "dialogue": "Ah, yes, now I do,"
             },
             {
@@ -57,7 +57,7 @@
                 "dialogue": "What about a story?"
             },
             {
-                "character": "_narr",
+                "character": "The Narrator",
                 "dialogue": "_What_ about a story?"
             },
             {
@@ -65,7 +65,7 @@
                 "dialogue": "Could you very sweetly tell Winnie-the-Pooh one?"
             },
             {
-                "character": "_narr",
+                "character": "The Narrator",
                 "dialogue": "I suppose I could, What sort of stories does he like?"
             },
             {
@@ -73,7 +73,7 @@
                 "dialogue": "About himself. Because he's _that_ sort of Bear."
             },
             {
-                "character": "_narr",
+                "character": "The Narrator",
                 "dialogue": "Oh, I see."
             },
             {
@@ -81,7 +81,7 @@
                 "dialogue": "So could you very sweetly?"
             },
             {
-                "character": "_narr",
+                "character": "The Narrator",
                 "dialogue": "I'll try,"
             }
         ]
@@ -91,7 +91,7 @@
         "characters": [
             "Christopher Robin - External",
             "Winnie-the-pooh",
-            "_narr",
+            "The Narrator",
             "Christopher Robin - Story"
         ],
         "dialogue": [
@@ -100,7 +100,7 @@
                 "dialogue": "What does 'under the name' mean?"
             },
             {
-                "character": "_narr",
+                "character": "The Narrator",
                 "dialogue": "_It means he had the name over the door in gold letters, and lived under it._"
             },
             {
@@ -112,7 +112,7 @@
                 "dialogue": "Now I am,"
             },
             {
-                "character": "_narr",
+                "character": "The Narrator",
                 "dialogue": "Then I will go on,"
             },
             {
@@ -160,7 +160,7 @@
                 "dialogue": "Was that me?"
             },
             {
-                "character": "_narr",
+                "character": "The Narrator",
                 "dialogue": "_That was you._"
             },
             {
@@ -385,7 +385,7 @@
         "raw text": "\n\n\"Is that the end of the story?\" asked Christopher Robin.\n\n\"That's the end of that one. There are others.\"\n\n\"About Pooh and Me?\"\n\n\"And Piglet and Rabbit and all of you. Don't you remember?\"\n\n\"I do remember, and then when I try to remember, I forget.\"\n\n\"That day when Pooh and Piglet tried to catch the Heffalump----\"\n\n\"They didn't catch it, did they?\"\n\n\"No.\"\n\n\"Pooh couldn't, because he hasn't any brain. Did _I_ catch it?\"\n\n\"Well, that comes into the story.\"\n\nChristopher Robin nodded.\n\n\"I do remember,\" he said, \"only Pooh doesn't very well, so that's why he\nlikes having it told to him again. Because then it's a real story and\nnot just a remembering.\"\n\n\"That's just how _I_ feel,\" I said.\n\nChristopher Robin gave a deep sigh, picked his Bear up by the leg, and\nwalked off to the door, trailing Pooh behind him. At the door he turned\nand said, \"Coming to see me have my bath?\"\n\n\"I might,\" I said.\n\n\"I didn't hurt him when I shot him, did I?\"\n\n\"Not a bit.\"\n\nHe nodded and went out, and in a moment I heard Winnie-the-Pooh--_bump,\nbump, bump_--going up the stairs behind him.\n\n\n\n\n                               ",
         "characters": [
             "Christopher Robin - External",
-            "_narr"
+            "The Narrator"
         ],
         "dialogue": [
             {
@@ -393,7 +393,7 @@
                 "dialogue": "Is that the end of the story?"
             },
             {
-                "character": "_narr",
+                "character": "The Narrator",
                 "dialogue": "That's the end of that one. There are others."
             },
             {
@@ -401,7 +401,7 @@
                 "dialogue": "About Pooh and Me?"
             },
             {
-                "character": "_narr",
+                "character": "The Narrator",
                 "dialogue": "And Piglet and Rabbit and all of you. Don't you remember?"
             },
             {
@@ -409,7 +409,7 @@
                 "dialogue": "I do remember, and then when I try to remember, I forget."
             },
             {
-                "character": "_narr",
+                "character": "The Narrator",
                 "dialogue": "That day when Pooh and Piglet tried to catch the Heffalump----"
             },
             {
@@ -417,7 +417,7 @@
                 "dialogue": "They didn't catch it, did they?"
             },
             {
-                "character": "_narr",
+                "character": "The Narrator",
                 "dialogue": "No."
             },
             {
@@ -425,7 +425,7 @@
                 "dialogue": "Pooh couldn't, because he hasn't any brain. Did _I_ catch it?"
             },
             {
-                "character": "_narr",
+                "character": "The Narrator",
                 "dialogue": "Well, that comes into the story."
             },
             {
@@ -433,7 +433,7 @@
                 "dialogue": "I do remember, only Pooh doesn't very well, so that's why he likes having it told to him again. Because then it's a real story and not just a remembering."
             },
             {
-                "character": "_narr",
+                "character": "The Narrator",
                 "dialogue": "That's just how _I_ feel,"
             },
             {
@@ -441,7 +441,7 @@
                 "dialogue": "Coming to see me have my bath?"
             },
             {
-                "character": "_narr",
+                "character": "The Narrator",
                 "dialogue": "I might,"
             },
             {
@@ -449,7 +449,7 @@
                 "dialogue": "I didn't hurt him when I shot him, did I?"
             },
             {
-                "character": "_narr",
+                "character": "The Narrator",
                 "dialogue": "Not a bit."
             }
         ]
@@ -1954,7 +1954,7 @@
         "raw text": "\n\n\"And didn't _I_ give him anything?\" asked Christopher Robin sadly.\n\n\"Of course you did,\" I said. \"You gave him--don't you remember--a\nlittle--a little----\"\n\n\"I gave him a box of paints to paint things with.\"\n\n\"That was it.\"\n\n\"Why didn't I give it to him in the morning?\"\n\n\"You were so busy getting his party ready for him. He had a cake with\nicing on the top, and three candles, and his name in pink sugar,\nand----\"\n\n\"Yes, _I_ remember,\" said Christopher Robin.\n\n",
         "characters": [
             "Christopher Robin - External",
-            "_narr"
+            "The Narrator"
         ],
         "dialogue": [
             {
@@ -1962,7 +1962,7 @@
                 "dialogue": "And didn't _I_ give him anything?"
             },
             {
-                "character": "_narr",
+                "character": "The Narrator",
                 "dialogue": "Of course you did, You gave him--don't you remember--a little--a little----"
             },
             {
@@ -1970,7 +1970,7 @@
                 "dialogue": "I gave him a box of paints to paint things with."
             },
             {
-                "character": "_narr",
+                "character": "The Narrator",
                 "dialogue": "That was it."
             },
             {
@@ -1978,7 +1978,7 @@
                 "dialogue": "Why didn't I give it to him in the morning?"
             },
             {
-                "character": "_narr",
+                "character": "The Narrator",
                 "dialogue": "You were so busy getting his party ready for him. He had a cake with icing on the top, and three candles, and his name in pink sugar, and----"
             },
             {
@@ -3665,7 +3665,7 @@
         "raw text": "\n\n\"And what did happen?\" asked Christopher Robin.\n\n\"When?\"\n\n\"Next morning.\"\n\n\"I don't know.\"\n\n\"Could you think and tell me and Pooh some time?\"\n\n\"If you wanted it very much.\"\n\n\"Pooh does,\" said Christopher Robin.\n\nHe gave a deep sigh, picked his bear up by the leg and walked off to the\ndoor, trailing Winnie-the-Pooh behind him. At the door he turned and\nsaid \"Coming to see me have my bath?\"\n\n\"I might,\" I said.\n\n\"Was Pooh's pencil case any better than mine?\"\n\n\"It was just the same,\" I said.\n\nHe nodded and went out ... and in a moment I heard\nWinnie-the-Pooh--_bump, bump, bump_--going up the stairs behind him.",
         "characters": [
             "Christopher Robin - External",
-            "_narr"
+            "The Narrator"
         ],
         "dialogue": [
             {
@@ -3673,7 +3673,7 @@
                 "dialogue": "And what did happen?"
             },
             {
-                "character": "_narr",
+                "character": "The Narrator",
                 "dialogue": "When?"
             },
             {
@@ -3681,7 +3681,7 @@
                 "dialogue": "Next morning."
             },
             {
-                "character": "_narr",
+                "character": "The Narrator",
                 "dialogue": "I don't know."
             },
             {
@@ -3689,7 +3689,7 @@
                 "dialogue": "Could you think and tell me and Pooh some time?"
             },
             {
-                "character": "_narr",
+                "character": "The Narrator",
                 "dialogue": "If you wanted it very much."
             },
             {
@@ -3701,7 +3701,7 @@
                 "dialogue": "Coming to see me have my bath?"
             },
             {
-                "character": "_narr",
+                "character": "The Narrator",
                 "dialogue": "I might,"
             },
             {
@@ -3709,7 +3709,7 @@
                 "dialogue": "Was Pooh's pencil case any better than mine?"
             },
             {
-                "character": "_narr",
+                "character": "The Narrator",
                 "dialogue": "It was just the same,"
             }
         ]
